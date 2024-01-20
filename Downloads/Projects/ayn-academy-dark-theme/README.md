@@ -1,1 +1,0 @@
-# ayn-academy-dark-theme
