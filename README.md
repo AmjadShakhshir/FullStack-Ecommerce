@@ -10,6 +10,24 @@
  - [Backend repo](https://github.com/AmjadShakhshir/FS16_backend_project)
  
 
+## Tech Stack
+
+**FrontEnd:** React, Redux, Material UI, Typescript, JEST 
+
+**Backend:** Node, Express, MongoDB
+
+**DevOps** Docker, AWS
+
+***CI/CD*** Github actions
+
+## Author
+**FrontEnd** - [@AmjadShakhshir](https://github.com/AmjadShakhshir)
+
+**Backend** - 
+- Shtanko Yaroslav
+- Md Shayemur Rahman
+- Amjad Shakhshir
+- Alexey Sytnikov
 
 ## Contributing
 
